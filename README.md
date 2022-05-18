@@ -34,7 +34,7 @@
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-night45&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-night45&theme=midnight-pink&show_icons=true&bg_color=0D1117&hide_border=true">
 		</td>
 		<td width="1200px">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-night45&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true">
