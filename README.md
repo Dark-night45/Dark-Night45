@@ -13,7 +13,7 @@
 	<tr>
 	<td width="1200px">
 	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=js,css,html,cs,jquery,markdown,svg"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=js,css,html,php,cs,jquery,markdown,svg"></td>
 	</tr>
 	<table>   
    
