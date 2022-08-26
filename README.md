@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77019324/168892194-e1e1c7e3-5460-43e3-b682-9c388747ce55.png">
+<img src="https://user-images.githubusercontent.com/77019324/168892194-e1e1c7e3-5460-43e3-b682-9c388747ce55.png" draggable="false">
 	<h1 align="center">Dark-Night45</h1> 
 
 <table>
@@ -9,6 +9,7 @@
 		 🪐 I Likes lofi music, anime, movie, game<br>  
 		 <a href="https://instagram.com/dark._.night45">📷 Instagram</a>  /  <a href="https://twitter.com/dark_night45">🐤 Twitter</a>  /  <a href="https://twitch.tv/dark_night450">📺 Twitch</a>
  </p>
+ <img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views" draggable="false">
 </td>
 	<tr>
 	<td width="1200px">
