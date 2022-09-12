@@ -46,4 +46,4 @@
 <a align="left" href="https://discord.com/users/780178868400816169">
  <img align="center" src="https://lanyard.cnrad.dev/api/780178868400816169?theme=Dark&animated=true&hideDiscrim=false&borderRadius=7px&idleMessage=I%20was%20not%20doing%20anything">
    </a> 
-   <img align="right" src="https://count.getloli.com/get/@:dark-night45" draggable="false">
+   <!--<img align="right" src="https://count.getloli.com/get/@:dark-night45" draggable="false">-->
