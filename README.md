@@ -7,7 +7,7 @@
 		 <p>🌌 A <b>INFP</b> person <img align="right" src="https://skillicons.dev/icons?i=emotion"><br>
 		💻 Developer, Streamer, Desiner, Gamer<br>
 		 🪐 I Likes lofi music, anime, movie, game<br>  
-		 <a href="https://instagram.com/dark._.night45">📷 Instagram</a>  /  <a href="https://twitter.com/dark_night45">🐤 Twitter</a>  /  <a href="https://twitch.tv/dark_night450">📺 Twitch</a>  /  <a href="https://discord.gg/wpWHUXUktm">🌇 Discord</a>
+		 <a href="mailto:contact@dark-night.ml">✉ Email</a>  /  <a href="https://instagram.com/dark._.night45">📷 Instagram</a>  /  <a href="https://twitter.com/dark_night45">🐤 Twitter</a>  /  <a href="https://twitch.tv/dark_night450">📺 Twitch</a>  /  <a href="https://discord.gg/wpWHUXUktm">🌇 Discord</a>
  </p>
  <img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views&color=cc00ff" draggable="false">
 </td>
