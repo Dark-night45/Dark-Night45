@@ -9,7 +9,8 @@
 		 🪐 I'm a front-end developer who is also currently learning back-end development.<br>  
 		 <a href="mailto:contact@dark-night.ir">✉ Email</a>  /  <a href="https://instagram.com/dark._.night45">📷 Instagram</a>  /  <a href="https://twitter.com/dark_night45">🐤 Twitter</a>  /  <a href="https://twitch.tv/dark_night450">📺 Twitch</a>  /  <a href="https://discord.gg/wpWHUXUktm">🌇 Discord</a>
  </p>
- <img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views&color=cc00ff" draggable="false">
+<br>
+<img align="right" src="https://count.getloli.com/get/@:dark-night45" draggable="false">
 </td>
 	<tr>
 	<td width="1200px">
@@ -43,5 +44,6 @@
    </a> 
 		</td>
 	</tr>
+	<img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views&color=cc00ff" style="opacity:0" draggable="false">
 </table>
    <!--<img align="right" src="https://count.getloli.com/get/@:dark-night45" draggable="false">-->
