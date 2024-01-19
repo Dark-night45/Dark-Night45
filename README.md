@@ -44,6 +44,7 @@
    </a> 
 		</td>
 	</tr>
-	<img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views&color=cc00ff" style="opacity:0" draggable="false">
+
 </table>
+	<img src="https://komarev.com/ghpvc/?username=Dark-night45&label=Profile Views&color=cc00ff" style="opacity:0" draggable="false">
    <!--<img align="right" src="https://count.getloli.com/get/@:dark-night45" draggable="false">-->
